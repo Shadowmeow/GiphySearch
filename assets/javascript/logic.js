@@ -74,4 +74,3 @@ $("#run-search").on("click", function(event){
 for(i = 0; i < startingButtons.length; i++) {
      makeButton(startingButtons[i]);
 };
-

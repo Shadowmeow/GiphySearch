@@ -1,5 +1,6 @@
 * {
 	text-align: center;
+	background-color: #ADD8E6;
 }
 
 button {
@@ -23,4 +24,8 @@ h3 {
 
 .btn-default {
 	margin-top: 10px;
+}
+
+#search-term {
+	background-color: white;
 }

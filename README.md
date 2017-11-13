@@ -1,2 +1,3 @@
 # GiphySearch
-Program to search for a max of ten gifs from gifhy
+Simple website to search for gif from the Giphy API. Click gifs to start and stop gifs.
+Note: There is no button saving functionality. 

@@ -13,7 +13,7 @@ $("#buttons").on("click", ".btn", function(){
 
   var selected = $(this).attr("data");
   var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
-    selected + "&api_key=dc6zaTOxFJmzC&limit=10";
+    selected + "&api_key=dc6zaTOxFJmzC&limit=100";
 
   $.ajax({
     url: queryURL,
